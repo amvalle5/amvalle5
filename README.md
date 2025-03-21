@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Araceli Valles</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">I exist to create meaningful opportunities for growth and expression.</h3>
+
 
 - 🔭 I’m currently working on [Picositos AZ](https://amvalle5.github.io/picositosAZ/)
 
