@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Araceli Valles</h1>
-<h3 align="center">I’m a front-end developer with experience in HTML, CSS, JavaScript, and UI/UX design. I exist to create meaningful opportunities for growth and expression.</h3>
+<h3 align="center">I’m a front-end developer with experience in HTML, CSS, JavaScript, and UI/UX design. I exist to challenge myself through meaningful growth and creative expression.</h3>
 
 - 🎓 Senior at **Arizona State University**, studying **Internet and Web Development**
   
