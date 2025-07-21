@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Bootstrap**
 
-- 📫 How to reach me **amvalle5@asu.edu**
+- 📫 How to reach me **aracelivalles@yahoo.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left" style="display: flex; align-items: center; gap: 15px;">
