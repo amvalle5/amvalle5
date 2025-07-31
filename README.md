@@ -5,7 +5,7 @@
  
 - 🚀 Always learning and pushing boundaries in front-end development
     
-- 🔭 I’m currently working on [Picositos AZ](https://amvalle5.github.io/picositosAZ/)
+- 🔭 I’m currently working on [Blossom Haven](https://github.com/amvalle5/blossom-haven)
 
 - 🌱 I’m currently learning **Bootstrap**
 
